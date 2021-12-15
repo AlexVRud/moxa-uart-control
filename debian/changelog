@@ -1,3 +1,11 @@
+moxa-uart-control (1.1.6+deb11) UNRELEASED; urgency=medium
+
+  * update to Debian 11
+  * fix linter warnings
+  * update depends to libjson-c5
+
+ -- Alexander Rudalev <a.rudalev@ens.ru>  Wed, 15 Dec 2021 11:15:18 +0300
+
 moxa-uart-control (1.1.6+deb9) stretch; urgency=low
 
   [ Elvis CW Yao ]
